@@ -65,7 +65,7 @@ class Kwadrat(Wielokat):
         super().__init__(1)
 
     def area(self):
-        print("area is: "+str(sum(self.sizeOfSides)**2))
+        print("area is : "+str(sum(self.sizeOfSides)**2))
 
 
 # w = Wielokat(4)
